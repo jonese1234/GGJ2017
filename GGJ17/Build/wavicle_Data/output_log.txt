@@ -1,0 +1,78 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.184 seconds
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Computing\OneDrive - University of Lincoln\GGJ 2017\GGJ17\GGJ17\Build\wavicle_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.619788 ms
+The referenced script on this Behaviour (Game Object 'MainCharacter') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.120757 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 5.216553 ms (FindLiveObjects: 0.075709 ms CreateObjectMapping: 0.019889 ms MarkObjects: 0.240601 ms  DeleteObjects: 4.874579 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 43.072098 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 12.465064 ms (FindLiveObjects: 0.009624 ms CreateObjectMapping: 0.006736 ms MarkObjects: 0.103618 ms  DeleteObjects: 12.344764 ms)
+
+The referenced script on this Behaviour (Game Object 'MainCharacter') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315027 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 5.240293 ms (FindLiveObjects: 0.072501 ms CreateObjectMapping: 0.017002 ms MarkObjects: 0.260490 ms  DeleteObjects: 4.889336 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 41.934856 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 12.548793 ms (FindLiveObjects: 0.010265 ms CreateObjectMapping: 0.010265 ms MarkObjects: 0.130566 ms  DeleteObjects: 12.397054 ms)
+
+The referenced script on this Behaviour (Game Object 'MainCharacter') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.411267 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 5.187681 ms (FindLiveObjects: 0.067047 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.211729 ms  DeleteObjects: 4.892223 ms)
+
+-2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 43.445190 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 12.428814 ms (FindLiveObjects: 0.010907 ms CreateObjectMapping: 0.008340 ms MarkObjects: 0.144360 ms  DeleteObjects: 12.264563 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2bac -> priority: 1 
